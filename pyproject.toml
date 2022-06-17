@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "dataobjtools"
 version = "0.1.0"
-description = "Data Object helpers for Dicts and Lists for searching, manipulating etc"
+description = "Data Object helpers for Dicts and Lists for searching, managing, manipulating etc"
 authors = ["pub12 <pubudu79@gmail.com>"]
 license = "MIT"
 
